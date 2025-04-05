@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "中文"
+  name: "中文社区"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:

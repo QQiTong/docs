@@ -4,7 +4,6 @@ export default defineConfig({
   // 站点级配置
   title: '我的文档', // 默认标题（中文）
   description: '一个基于 VitePress 的国际化文档站点',
-
   // 国际化配置
   locales: {
     // 中文作为默认语言（根路径）
@@ -23,7 +22,7 @@ export default defineConfig({
           
           '/zh/mt5': [
             {
-              text: '螺纹',
+              text: '螺纹钢',
               collapsed:true,
               items: [
                 { text: '指南', link: '/zh/mt5' },
