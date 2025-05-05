@@ -1,0 +1,9 @@
+{
+  "symbol": "if",
+  "period": "30m",
+  "name": "跳空系统",
+  "yearRate": 13,
+  "maxDrawdown": 16,
+  "riskManage": 11,
+  "score": "52分"
+}
