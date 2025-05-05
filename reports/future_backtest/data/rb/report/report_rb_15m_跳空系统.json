@@ -1,0 +1,9 @@
+{
+  "symbol": "rb",
+  "period": "15m",
+  "name": "跳空系统",
+  "yearRate": 30,
+  "maxDrawdown": 21,
+  "riskManage": 10,
+  "score": "50分"
+}

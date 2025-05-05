@@ -1,0 +1,9 @@
+{
+  "symbol": "rb",
+  "period": "15m",
+  "name": "macd进日sar出",
+  "yearRate": 133,
+  "maxDrawdown": 20,
+  "riskManage": 50,
+  "score": "52分"
+}
