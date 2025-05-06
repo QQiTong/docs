@@ -1,0 +1,9 @@
+{
+  "symbol": "if",
+  "period": "15m",
+  "name": "顺势macd",
+  "yearRate": 30,
+  "maxDrawdown": 23,
+  "riskManage": 25,
+  "score": "45分"
+}

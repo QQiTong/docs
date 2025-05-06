@@ -1,0 +1,9 @@
+{
+  "symbol": "ec",
+  "period": "1h",
+  "name": "海豚系统",
+  "yearRate": 31,
+  "maxDrawdown": 7,
+  "riskManage": 16,
+  "score": "82分"
+}

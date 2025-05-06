@@ -1,0 +1,9 @@
+{
+  "symbol": "lc",
+  "period": "30m",
+  "name": "单均线atr",
+  "yearRate": 97,
+  "maxDrawdown": 28,
+  "riskManage": 39,
+  "score": "72分"
+}

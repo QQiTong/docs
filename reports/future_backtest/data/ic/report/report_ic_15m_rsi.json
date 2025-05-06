@@ -1,0 +1,9 @@
+{
+  "symbol": "ic",
+  "period": "15m",
+  "name": "rsi",
+  "yearRate": 40,
+  "maxDrawdown": 21,
+  "riskManage": 44,
+  "score": "47分"
+}

@@ -1,0 +1,9 @@
+{
+  "symbol": "fg",
+  "period": "1h",
+  "name": "均线择时马丁",
+  "yearRate": 6,
+  "maxDrawdown": 11,
+  "riskManage": 95,
+  "score": "53分"
+}

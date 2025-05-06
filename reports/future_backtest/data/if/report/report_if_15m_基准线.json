@@ -1,0 +1,9 @@
+{
+  "symbol": "if",
+  "period": "15m",
+  "name": "基准线",
+  "yearRate": 48,
+  "maxDrawdown": 27,
+  "riskManage": 48,
+  "score": "48分"
+}

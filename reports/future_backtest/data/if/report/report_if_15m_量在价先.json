@@ -1,0 +1,9 @@
+{
+  "symbol": "if",
+  "period": "15m",
+  "name": "量在价先",
+  "yearRate": 103,
+  "maxDrawdown": 26,
+  "riskManage": 51,
+  "score": "60分"
+}

@@ -1,0 +1,9 @@
+{
+  "symbol": "rb",
+  "period": "1h",
+  "name": "boll&macd",
+  "yearRate": 42,
+  "maxDrawdown": 15,
+  "riskManage": 60,
+  "score": "60分"
+}

@@ -1,0 +1,9 @@
+{
+  "symbol": "rb",
+  "period": "15m",
+  "name": "12345系统",
+  "yearRate": 24,
+  "maxDrawdown": 23,
+  "riskManage": 12,
+  "score": "56分"
+}

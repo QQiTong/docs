@@ -1,0 +1,9 @@
+{
+  "symbol": "m",
+  "period": "30m",
+  "name": "均线择时马丁",
+  "yearRate": 10,
+  "maxDrawdown": 26,
+  "riskManage": 97,
+  "score": "46分"
+}

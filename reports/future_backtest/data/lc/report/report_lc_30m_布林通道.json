@@ -1,0 +1,9 @@
+{
+  "symbol": "lc",
+  "period": "30m",
+  "name": "布林通道",
+  "yearRate": 35,
+  "maxDrawdown": 6,
+  "riskManage": 19,
+  "score": "62分"
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "year": 2017,
+        "profit": 5118.87,
+        "yieldRate": 0.2048,
+        "maxDrawdown": 7134.24,
+        "riskReward": 4.78,
+        "trades": 33,
+        "winRate": 0.3636,
+        "profitLossRatio": 2.06
+    },
+    {
+        "year": 2018,
+        "profit": 9229.24,
+        "yieldRate": 0.3064,
+        "maxDrawdown": 4583.85,
+        "riskReward": 3.33,
+        "trades": 13,
+        "winRate": 0.4615,
+        "profitLossRatio": 1.7
+    },
+    {
+        "year": 2019,
+        "profit": 3136.53,
+        "yieldRate": 0.0797,
+        "maxDrawdown": 5814.0,
+        "riskReward": 1.37,
+        "trades": 13,
+        "winRate": 0.4615,
+        "profitLossRatio": 2.75
+    },
+    {
+        "year": 2020,
+        "profit": 4455.02,
+        "yieldRate": 0.1049,
+        "maxDrawdown": 4953.36,
+        "riskReward": 0.97,
+        "trades": 13,
+        "winRate": 0.5385,
+        "profitLossRatio": 1.59
+    },
+    {
+        "year": 2021,
+        "profit": 8760.28,
+        "yieldRate": 0.1866,
+        "maxDrawdown": 10643.28,
+        "riskReward": 3.9,
+        "trades": 27,
+        "winRate": 0.3333,
+        "profitLossRatio": 2.7
+    },
+    {
+        "year": 2022,
+        "profit": 7458.28,
+        "yieldRate": 0.1339,
+        "maxDrawdown": 7098.12,
+        "riskReward": null,
+        "trades": 21,
+        "winRate": 0.381,
+        "profitLossRatio": 2.4
+    },
+    {
+        "year": 2023,
+        "profit": 5848.34,
+        "yieldRate": 0.0926,
+        "maxDrawdown": 4777.15,
+        "riskReward": 5.42,
+        "trades": 14,
+        "winRate": 0.5,
+        "profitLossRatio": 1.79
+    },
+    {
+        "year": 2024,
+        "profit": 7181.1,
+        "yieldRate": 0.1041,
+        "maxDrawdown": 5515.28,
+        "riskReward": 11.4,
+        "trades": 13,
+        "winRate": 0.4615,
+        "profitLossRatio": 2.5
+    },
+    {
+        "year": 2025,
+        "profit": -2182.01,
+        "yieldRate": -0.0286,
+        "maxDrawdown": 3492.43,
+        "riskReward": -0.79,
+        "trades": 4,
+        "winRate": 0.25,
+        "profitLossRatio": 0.24
+    }
+]

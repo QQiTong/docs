@@ -1,0 +1,72 @@
+[
+    {
+        "year": 2019,
+        "profit": -233.04,
+        "yieldRate": -0.0466,
+        "maxDrawdown": 740.0,
+        "riskReward": -1.0,
+        "trades": 0,
+        "winRate": 0.0,
+        "profitLossRatio": 0.0
+    },
+    {
+        "year": 2020,
+        "profit": 12902.12,
+        "yieldRate": 2.7066,
+        "maxDrawdown": 2194.04,
+        "riskReward": 25.47,
+        "trades": 11,
+        "winRate": 0.7273,
+        "profitLossRatio": 2.91
+    },
+    {
+        "year": 2021,
+        "profit": 18382.76,
+        "yieldRate": 1.0404,
+        "maxDrawdown": 7332.7,
+        "riskReward": 75.77,
+        "trades": 17,
+        "winRate": 0.5294,
+        "profitLossRatio": 2.06
+    },
+    {
+        "year": 2022,
+        "profit": -1989.41,
+        "yieldRate": -0.0552,
+        "maxDrawdown": 11646.4,
+        "riskReward": -0.44,
+        "trades": 19,
+        "winRate": 0.4737,
+        "profitLossRatio": 1.12
+    },
+    {
+        "year": 2023,
+        "profit": 34896.16,
+        "yieldRate": 1.0245,
+        "maxDrawdown": 4256.21,
+        "riskReward": null,
+        "trades": 16,
+        "winRate": 0.6875,
+        "profitLossRatio": 4.2
+    },
+    {
+        "year": 2024,
+        "profit": 14430.72,
+        "yieldRate": 0.2093,
+        "maxDrawdown": 6601.42,
+        "riskReward": 21.47,
+        "trades": 17,
+        "winRate": 0.5882,
+        "profitLossRatio": 3.16
+    },
+    {
+        "year": 2025,
+        "profit": -2848.27,
+        "yieldRate": -0.0342,
+        "maxDrawdown": 5416.12,
+        "riskReward": -0.63,
+        "trades": 6,
+        "winRate": 0.1667,
+        "profitLossRatio": 2.44
+    }
+]

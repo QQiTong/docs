@@ -1,0 +1,9 @@
+{
+  "symbol": "rb",
+  "period": "1h",
+  "name": "顺势td9加仓",
+  "yearRate": 160,
+  "maxDrawdown": 21,
+  "riskManage": 78,
+  "score": "57分"
+}
