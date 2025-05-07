@@ -1,0 +1,9 @@
+{
+  "symbol": "hc",
+  "period": "30m",
+  "name": "首次macd双叉",
+  "yearRate": 115,
+  "maxDrawdown": 25,
+  "riskManage": 53,
+  "score": "57分"
+}

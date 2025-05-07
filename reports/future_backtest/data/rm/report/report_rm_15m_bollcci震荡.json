@@ -1,0 +1,9 @@
+{
+  "symbol": "rm",
+  "period": "15m",
+  "name": "bollcci震荡",
+  "yearRate": 104,
+  "maxDrawdown": 21,
+  "riskManage": 39,
+  "score": "48分"
+}
