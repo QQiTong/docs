@@ -1,0 +1,9 @@
+{
+  "symbol": "lh",
+  "period": "1h",
+  "name": "cci",
+  "yearRate": 39,
+  "maxDrawdown": 15,
+  "riskManage": 17,
+  "score": "61分"
+}
