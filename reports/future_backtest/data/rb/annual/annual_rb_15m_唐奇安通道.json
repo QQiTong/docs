@@ -1,0 +1,172 @@
+[
+    {
+        "year": 2009,
+        "profit": 15431.44,
+        "yieldRate": 3.0863,
+        "maxDrawdown": 4692.34,
+        "riskReward": 10.88,
+        "trades": 13,
+        "winRate": 0.4615,
+        "profitLossRatio": 2.63
+    },
+    {
+        "year": 2010,
+        "profit": -950.99,
+        "yieldRate": -0.0465,
+        "maxDrawdown": 8129.58,
+        "riskReward": -0.26,
+        "trades": 10,
+        "winRate": 0.3,
+        "profitLossRatio": 2.68
+    },
+    {
+        "year": 2011,
+        "profit": 8817.13,
+        "yieldRate": 0.4526,
+        "maxDrawdown": 4288.62,
+        "riskReward": 50.33,
+        "trades": 5,
+        "winRate": 0.6,
+        "profitLossRatio": 2.89
+    },
+    {
+        "year": 2012,
+        "profit": 4123.29,
+        "yieldRate": 0.1457,
+        "maxDrawdown": 5577.96,
+        "riskReward": 0.81,
+        "trades": 9,
+        "winRate": 0.3333,
+        "profitLossRatio": 2.48
+    },
+    {
+        "year": 2013,
+        "profit": 655.07,
+        "yieldRate": 0.0202,
+        "maxDrawdown": 4334.94,
+        "riskReward": 0.87,
+        "trades": 6,
+        "winRate": 0.3333,
+        "profitLossRatio": 2.93
+    },
+    {
+        "year": 2014,
+        "profit": 3318.78,
+        "yieldRate": 0.1003,
+        "maxDrawdown": 2903.77,
+        "riskReward": 1.24,
+        "trades": 5,
+        "winRate": 0.4,
+        "profitLossRatio": 2.74
+    },
+    {
+        "year": 2015,
+        "profit": 1632.28,
+        "yieldRate": 0.0448,
+        "maxDrawdown": 5064.64,
+        "riskReward": 0.92,
+        "trades": 16,
+        "winRate": 0.3125,
+        "profitLossRatio": 2.7
+    },
+    {
+        "year": 2016,
+        "profit": 24932.88,
+        "yieldRate": 0.6557,
+        "maxDrawdown": 4314.2,
+        "riskReward": 49.87,
+        "trades": 39,
+        "winRate": 0.4872,
+        "profitLossRatio": 2.49
+    },
+    {
+        "year": 2017,
+        "profit": -322.31,
+        "yieldRate": -0.0051,
+        "maxDrawdown": 14797.92,
+        "riskReward": -0.05,
+        "trades": 33,
+        "winRate": 0.2727,
+        "profitLossRatio": 2.59
+    },
+    {
+        "year": 2018,
+        "profit": 6371.82,
+        "yieldRate": 0.1017,
+        "maxDrawdown": 9426.36,
+        "riskReward": 1.02,
+        "trades": 13,
+        "winRate": 0.3846,
+        "profitLossRatio": 2.87
+    },
+    {
+        "year": 2019,
+        "profit": -810.95,
+        "yieldRate": -0.0118,
+        "maxDrawdown": 3823.98,
+        "riskReward": -0.27,
+        "trades": 7,
+        "winRate": 0.2857,
+        "profitLossRatio": 2.78
+    },
+    {
+        "year": 2020,
+        "profit": 7808.2,
+        "yieldRate": 0.1145,
+        "maxDrawdown": 4702.97,
+        "riskReward": 21.69,
+        "trades": 7,
+        "winRate": 0.5714,
+        "profitLossRatio": 2.46
+    },
+    {
+        "year": 2021,
+        "profit": 17935.52,
+        "yieldRate": 0.236,
+        "maxDrawdown": 10731.24,
+        "riskReward": 3.49,
+        "trades": 34,
+        "winRate": 0.3235,
+        "profitLossRatio": 3.03
+    },
+    {
+        "year": 2022,
+        "profit": 7877.98,
+        "yieldRate": 0.0839,
+        "maxDrawdown": 12067.71,
+        "riskReward": 0.89,
+        "trades": 20,
+        "winRate": 0.35,
+        "profitLossRatio": 2.59
+    },
+    {
+        "year": 2023,
+        "profit": 8639.52,
+        "yieldRate": 0.0849,
+        "maxDrawdown": 5758.86,
+        "riskReward": 5.92,
+        "trades": 8,
+        "winRate": 0.5,
+        "profitLossRatio": 2.93
+    },
+    {
+        "year": 2024,
+        "profit": 1244.97,
+        "yieldRate": 0.0113,
+        "maxDrawdown": 5698.42,
+        "riskReward": 0.25,
+        "trades": 12,
+        "winRate": 0.25,
+        "profitLossRatio": 2.86
+    },
+    {
+        "year": 2025,
+        "profit": 2380.6,
+        "yieldRate": 0.0213,
+        "maxDrawdown": 2070.0,
+        "riskReward": 2.74,
+        "trades": 2,
+        "winRate": 1.0,
+        "profitLossRatio": null
+    }
+]

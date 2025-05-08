@@ -1,0 +1,9 @@
+{
+  "symbol": "ic",
+  "period": "10m",
+  "name": "dualtrust",
+  "yearRate": 51,
+  "maxDrawdown": 16,
+  "riskManage": 31,
+  "score": "40分"
+}
